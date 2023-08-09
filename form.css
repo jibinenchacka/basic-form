@@ -1,0 +1,38 @@
+h1{
+
+    text-align: center;
+    text-decoration: solid;
+    font-style: initial;
+    background-size: contain;
+    background-color: rgb(17, 172, 76);
+    color: aliceblue;
+    margin-top: 0px;
+    margin-left: 400px;
+    margin-right: 400px;
+ 
+    
+}
+
+.main{
+    text-align: center;
+   color: rgb(24, 23, 23);
+   font-weight:550;
+   font-style: normal;
+text-align: center;
+height: 20px;
+}
+fieldset{
+    margin: auto;
+    display: inline-block;
+    text-align: center;
+    align-self: center;
+    height: 15cm;
+    width: 13cm;
+}
+.main{
+    align-items: auto;
+
+}
+h4{
+    text-align: left;
+}
